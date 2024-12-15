@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color:lightblue;
+    color:black;
+}
+
+p{
+    color: cadetblue;
+}
+
+a{
+    color: royalblue;
+}
+
+h1 {
+    color: royalblue;
+    font-size: 200%;
+    font-weight: bolder;
+  }
